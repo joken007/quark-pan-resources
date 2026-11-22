@@ -1436,3 +1436,16 @@
 ---
 
 <sub>最后同步：2026-11-19 13:41 ｜ 共 444 条资源 ｜ 14 个分类</sub>
+
+
+---
+
+## 公开入口（免安装，浏览器直接看）
+
+- 资源库门面与全部渠道：https://joken007.github.io/quark-resource-library/
+- **原创指南《夸克网盘怎么用：资源搜索与学习资料整理指南》**：https://joken007.github.io/quark-resource-library/guide.html
+- 原创表情包全集（41 套微信表情，免费添加）：https://joken007.github.io/quark-resource-library/emoji.html
+- Telegram 频道（每天 10+ 条带封面资源）：https://t.me/kuake0007
+- X：https://x.com/NH20201202
+
+> 权利人认为内容侵权，请通过 Telegram 频道联系，24 小时内移除。
