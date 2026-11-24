@@ -1,3 +1,6 @@
+> **每天更新在 Telegram 频道**：[夸克网盘资源分享 @kuake0007](https://t.me/kuake0007) —— 每天 10+ 条带封面资源，链接失效可直接留言补链。
+> **免安装网页版**：[资源库门面](https://joken007.github.io/quark-resource-library/) · [原创使用指南](https://joken007.github.io/quark-resource-library/guide.html) · [常见问题 12 问](https://joken007.github.io/quark-resource-library/faq.html)
+
 ## 网盘资源
 
 > 夸克网盘分类资源库 · 14 个分类 · **754 条**资源
@@ -2366,3 +2369,17 @@
 ---
 
 <sub>最后同步：2026-11-24 09:24 ｜ 共 754 条资源 ｜ 14 个分类</sub>
+
+---
+
+## 每日更新与入口
+
+| 入口 | 说明 |
+|---|---|
+| [Telegram 频道 @kuake0007](https://t.me/kuake0007) | **更新最快**，每天 10+ 条带封面资源，失效留言即补 |
+| [公开网页库](https://joken007.github.io/quark-resource-library/) | 免安装，浏览器直接打开，按分类翻 |
+| [原创使用指南](https://joken007.github.io/quark-resource-library/guide.html) | 夸克网盘怎么用、找资料的几种方式、转存前六项自查 |
+| [常见问题 12 问](https://joken007.github.io/quark-resource-library/faq.html) | 链接怎么用、失效怎么办、有哪些分类、不装 Telegram 能不能看 |
+| [Telegram 公开预览](https://t.me/s/kuake0007) | 不装 App 也能翻最近 20 条 |
+
+本仓库是静态快照式目录；**新增资源只在 Telegram 频道与网页库更新**。所有链接均为自有网盘转存后生成的分享链接，不设关注 / 分享 / 转发门槛。不分享他人付费课程、盗版网文或破解影视 App。
